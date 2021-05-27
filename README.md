@@ -1,5 +1,5 @@
 # ShopWell
-Any E-Commerce Web Application.
+E-Commerce Web Application.
 
 # ABSTRACT
 This project has been created using Spyder, with a Windows platform. The project title is “E-Commercxe Web Application”.
